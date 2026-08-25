@@ -1,14 +1,14 @@
-# Vantablack
+# PrettyBlack
 
 A near-black Omarchy theme with muted grayscale accents and a dark palette.
 
 ## Install
 
 ```bash
-omarchy theme install https://github.com/ComittedComitter/omarchy-vantablack-theme.git
+omarchy theme install https://github.com/ComittedComitter/omarchy-prettyblack-theme.git
 ```
 
-Omarchy will clone the repo as **Vantablack** and apply it.
+Omarchy will clone the repo as **Prettyblack** and apply it.
 
 ## Files
 
