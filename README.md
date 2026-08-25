@@ -15,3 +15,5 @@ Omarchy will clone the repo as **Prettyblack** and apply it.
 - `colors.toml` — palette used to generate terminal, shell, and app theming
 - `icons.theme` — icon theme (`WhiteSur`)
 - `preview.png` — shown in the Omarchy theme selector
+- `backgrounds/PixelDeer.png` — theme wallpaper
+
