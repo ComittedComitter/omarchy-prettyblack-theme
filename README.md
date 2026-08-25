@@ -1,6 +1,6 @@
 # PrettyBlack
 
-A near-black Omarchy theme with muted grayscale accents and a dark palette.
+A near-black Omarchy theme but colors are still colors. muted though.
 
 ## Install
 
